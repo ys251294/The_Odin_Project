@@ -67,3 +67,12 @@
 1. "Your branch is ahead of 'origin/main' by 1 commit" just means that you now have newer snapshots than what is your remote repository. 
 2. Press `q` to escape if the terminal is stuck in the screen with (END) at the bottom.
 3. Basic Git Syntex:` program | action | destination`
+
+# **Seven Rules of Great Git Commit message**
+1. Seperate subject from body with a blank line
+2. Limit the subject line to 50 characters
+3. Capitalize the subject line
+4. Do not end the subject line with a period
+5. Use the imperative mood in the subject line
+6. Wrap the body at 72 characters
+7. Use the body to explain what and why vs how
