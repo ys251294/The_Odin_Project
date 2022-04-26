@@ -2,7 +2,7 @@
 
 This is my quick reference Markdown Cheat-Sheet for more detail visit Markdown Guide.  
 
-### Note : we can use nested syntex.
+### Note : we can use nested syntax.
 
 ---
 
