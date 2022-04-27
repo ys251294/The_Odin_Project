@@ -4,7 +4,7 @@
 This is my attempt to learn and complete [The Odin Project](https://www.theodinproject.com) while taking notes and digitalizing my notes as a revision.
 
 ## Why:
-I have been trying to enter the IT field for a long time now, but never in the organized form but in happy go lucky manner. This is my attempt to enter the IT field in a more disciplined manner while journaling my journey.
+I have been trying to enter the IT field for a long time now, but never in the organized form but in happy go lucky manner. This is my attempt to enter the IT field in a more disciplined manner while journalizing my journey.
 
 ## How:
 This Repository will keep track of my progress in The Odin Project and my understanding of content available in TOP.

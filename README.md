@@ -1,4 +1,4 @@
-# The_Odin_Project
+# My The Odin Project Repo 
 This is a Repository of all my work done following instructions on The Odin Project
 
 ### [Markdown Cheat Sheet](./MarkDown_Cheat-Sheet.md)
