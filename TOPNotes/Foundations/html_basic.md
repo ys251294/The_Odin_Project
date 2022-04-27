@@ -64,7 +64,7 @@
 
 ## Links & Images:
 1. Links: 
-    - Link is used to create link with another webpage or section in HTML, we use anchor `<a>` element.
+    - Link is used to create link with anothers webpage or section in HTML, we use anchor `<a>` element.
     - `<a>` Click me '</a>'
     - we use `href=""` attribute to provide destination we want link to go to.
     - Type:
