@@ -1,0 +1,33 @@
+/* Method 1 class and class*/
+.container .text {
+    background-color: yellow;
+    color : red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Method 2 type and class */
+
+div .text {
+    background-color: yellow;
+    color : red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Method 3 class and type*/
+
+.container p {
+    background-color: yellow;
+    color : red;
+    font-size: 20px;
+    text-align: center;
+}
+
+/* Method 4 type and type */
+div p {
+    background-color: yellow;
+    color : red;
+    font-size: 20px;
+    text-align: center;
+}
