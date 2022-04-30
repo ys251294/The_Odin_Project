@@ -1,0 +1,57 @@
+* {
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+.header{
+    margin-top: 10%;
+}
+.odinlogo{
+    
+    padding-left: 36%;
+    vertical-align: middle;
+    height: auto;
+    width: 5%;
+}
+
+hr{
+    width: 50%;
+    height: 2px;
+    margin:auto;
+    margin-bottom: 5%;
+    color : #e3b261;
+    background-color : #e3b261;
+}
+
+h1 {
+    display: inline;
+    text-align: center;
+    vertical-align: middle;
+    font-weight: bold;
+}
+
+ul{
+    text-align: center;
+}
+
+li{
+    display: inline-block;
+    background-color: #e3b261;
+    border-radius: 10%;
+    margin: 0 10%;
+}
+
+li img{
+    margin: auto;
+    height: 200px;
+    width: 200px;
+    border-radius: 10% 10% 0 0;
+}
+
+li:first-child{
+    margin: 0 10% 0 0;
+}
+
+li:last-child{
+    margin: 0 0 0 10%;
+}
