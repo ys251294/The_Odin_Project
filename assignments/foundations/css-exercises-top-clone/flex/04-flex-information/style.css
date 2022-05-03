@@ -1,5 +1,11 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
 body {
-  font-family: 'Courier New', Courier, monospace;
+  font-family: "Courier New", Courier, monospace;
 }
 
 img {
@@ -23,4 +29,21 @@ img {
   align-items: center;
   justify-content: center;
   background: #eee;
+}
+
+/*Solution*/
+
+body {
+  text-align: center;
+}
+
+.plant-container {
+  display: flex;
+  justify-content: center;
+  margin-top: 32px;
+  gap: 52px;
+}
+
+.plant-container > div {
+  max-width: 200px;
 }
