@@ -14,5 +14,8 @@ This is a Repository of all my work done following instructions on The Odin Proj
 
 
 ### Assignments:
- - **Foundation:**
-    - [HTML](./assignments/foundations/html/index.html)
+ - **[Foundation]:**(./assignments/foundations/index.md)
+    - HTML
+        - [Create List](./assignments/foundations/html/index.html)
+    - CSS
+        - 
