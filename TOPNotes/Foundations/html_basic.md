@@ -54,7 +54,7 @@
 4. Italic: `<em>` Italic `<em>`
 
 - HTML allow nesting of elements with parent-child relationship.
-- HTML comments are by enclosing comment with `<!--` and `-->` tags.
+- HTML comments are written by enclosing comment with `<!--` and `-->` tags.
 
 ## List:
 - all `<ul>, <ol>, <li>` are non-empty tags.
