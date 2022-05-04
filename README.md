@@ -11,6 +11,7 @@ This is a Repository of all my work done following instructions on The Odin Proj
 - **Foundation:**
     - [Git & GitHub Notes](./TOPNotes/Foundations/Git_GitHub-notes.md)
     - [HTML Basic](./TOPNotes/Foundations/html_basic.md)
+    - [CSS](./TOPNotes/Foundations/css_basic.md)
 
 
 ### [Assignments:](./assignments/foundations/index.md)
