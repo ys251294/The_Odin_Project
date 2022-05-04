@@ -50,7 +50,6 @@ a{
   }
 
 .header, .footer{
-  flex: 1;
   display: flex;
   padding: 0 20px;
   justify-content: space-between;
