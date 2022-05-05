@@ -5,6 +5,7 @@ This is a Repository of all my work done following instructions on The Odin Proj
 
 ### Current Projects:
 1. HTML Basic [Odin Receips](./Projects/html_basic/index.html)
+2. CSS Basic [Landing Page](./Projects/css-basic/index.html)
 
 
 ### Current Notes:
