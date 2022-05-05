@@ -1,0 +1,44 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto&display=swap');
+
+*{
+    box-sizing: border-box;
+    font-family: 'Roboto', Courier, monospace;
+}
+
+.header-section>h1{
+    font-size: 24px;
+    color: #f9faf8;
+}
+
+.hero-section{
+    background-color: #1f2937;
+}
+
+.hero-section>h1 {
+    font-size: 48px;
+    font-weight: bolder;
+}
+
+.hero-section>p, .header-section a {
+    font-size: 18px;
+    color: #e5e7eb;
+}
+
+.sign-up {
+    background-color: #3882f6;
+}
+
+.quote-section>p{
+    background-color: #E5E7EB;
+    font-size: 36px;
+    font-style: italic;
+    color:#1f2937;
+}
+
+.action-section {
+    background-color: #3882f6;
+}
+
+.footer-section{
+    background-color: #1f2937;
+}
