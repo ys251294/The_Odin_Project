@@ -3,42 +3,161 @@
 *{
     box-sizing: border-box;
     font-family: 'Roboto', Courier, monospace;
+    margin:0;
+    padding: 0;
 }
 
-.header-section>h1{
-    font-size: 24px;
-    color: #f9faf8;
+body {
+    display: flex;
+    flex-direction: column;
+    margin: 0;
 }
 
 .hero-section{
+    display: flex;
+    flex-direction: column;
     background-color: #1f2937;
+    color: #f9faf8;
+    padding-bottom: 48px;
+    gap: 48px;
+}
+ul {
+    list-style-type: none;
+    display: flex;
+    gap:20px;
+    margin:0;
+    padding: 0;
 }
 
-.hero-subsection>h1 {
+ul a {
+    text-decoration: none;
+}
+
+.header-section{
+    display: flex;
+    gap: 20px;
+    align-items: center;
+    justify-content: space-around;
+    padding: 1%;
+}
+
+.hero-subsection>.left>h1{
+    font-size: 24px;
+}
+
+.hero-subsection {
+    display: flex;
+    gap:20px;
+    align-self: center;
+    padding: 20px;
+}
+.left {
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    width: 500px;
+}
+
+.hero-image {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #d1d2d3;
+    padding: 32px;
+    
+}
+
+.hero-subsection>.left>h1 {
     font-size: 48px;
     font-weight: bolder;
 }
 
-.hero-subsection>p, .header-section a {
+.hero-subsection>.left>p, .header-section a {
     font-size: 18px;
     color: #e5e7eb;
 }
 
 .sign-up {
     background-color: #3882f6;
+    padding: 8px 32px;
+    border: none;
+    border-radius: 8px;
 }
 
-.quote-section>p{
+.hero-subsection .sign-up {
+    color:white;
+    margin-top: 16px;
+}
+
+.info-section {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 32px 0;
+}
+
+.info {
+    display: flex;
+    flex-wrap: wrap;
+    text-align: center;
+    justify-content: center;
+    padding: 48px;
+    gap:  48px;
+}
+.info div{
+    flex: 0;
+}
+.info-image {
+    border: 2px solid #3882f6;
+    width : 150px;
+    height: 150px;
+    border-radius: 5px;
+    margin-bottom: 10px;
+}
+
+.quote-section{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
     background-color: #E5E7EB;
+    padding: 5% 18%;
+}
+.quote-section>p{
+    flex: 0;
+    align-self: center;
     font-size: 36px;
     font-style: italic;
     color:#1f2937;
+    margin: 0;
+}
+
+.quote-section>h3 {
+    align-self: flex-end;
+    padding-right: 5%;
 }
 
 .action-section {
+    align-self: center;
+    display: flex;
     background-color: #3882f6;
+    border-radius: 5px;
+    justify-content: space-around;
+    color: white;
+    gap: 48px;
+    margin-top: 5%;
+    margin-bottom: 5%;
+    padding: 2% 5%;
 }
 
+.action-section .button-container{
+    align-self: center;
+}
+.action-section .sign-up{
+    border: 2px solid white;
+    color: white;
+}
 .footer-section{
+    text-align: center;
     background-color: #1f2937;
+    padding: 1.5%;
 }
