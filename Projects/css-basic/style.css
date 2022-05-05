@@ -14,12 +14,12 @@
     background-color: #1f2937;
 }
 
-.hero-section>h1 {
+.hero-subsection>h1 {
     font-size: 48px;
     font-weight: bolder;
 }
 
-.hero-section>p, .header-section a {
+.hero-subsection>p, .header-section a {
     font-size: 18px;
     color: #e5e7eb;
 }
