@@ -112,3 +112,28 @@ Selector refers to HTML elements to which CSS rule apply.
 <hr>
 
 ## CSS Properties:
+
+* `color`: set text color
+* `background-color` : set background color
+    * both properties accept HEX, RGB, HSL, Color Name, transparent values;
+* `font-family` : set types of font 
+    * font name in `""` if space present or non-generic font.
+    * multiple font family can be given as a fallback option.
+* `font-weight` :  set font weight - number[1-1000], bold, bolder.
+* `text-align` : align text horizontally within a element.
+    * Accepted Values : left|right|center|justify|initial|inherit;
+* `border` : set border-width, border-type, border-color.
+* `border-radius` : smooth corners of element.
+
+    ### Image Height and Width
+    * Syntax:
+        ```
+            .img {
+                height: auto;
+                width: 500px;
+            }
+        ```
+    * applying one of height or width image to grow or shrink while keeping its proportions same.
+
+<hr>
+
