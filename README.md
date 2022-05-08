@@ -4,7 +4,7 @@ This is a Repository of all my work done following instructions on The Odin Proj
 ### [Markdown Cheat Sheet](./MarkDown_Cheat-Sheet.md)
 
 ### Current Projects:
-1. HTML Basic [Odin Receips](./Projects/html_basic/index.html)
+1. HTML Basic [Odin Recipes](./Projects/html_basic/index.html)
 2. CSS Basic [Landing Page](./Projects/css-basic/index.html)
 
 
@@ -13,6 +13,10 @@ This is a Repository of all my work done following instructions on The Odin Proj
     - [Git & GitHub Notes](./TOPNotes/Foundations/Git_GitHub-notes.md)
     - [HTML Basic](./TOPNotes/Foundations/html_basic.md)
     - [CSS](./TOPNotes/Foundations/css_basic.md)
+
+### Current Knowledge Check
+- **Foundation:**
+    - [JavaScript Chapter - 1](/TOPNotes/Knowledge_Check/JS_Foundations/Chapter-1.md)
 
 
 ### [Assignments:](./assignments/foundations/index.md)
